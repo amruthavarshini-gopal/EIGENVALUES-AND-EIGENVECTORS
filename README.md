@@ -45,7 +45,7 @@ print("Eigen values are {} and Eigen Vectors are {}".format(eigen_value,eigen_ve
 
 ## Output:
 
-![Alt text](maths4.png)
+![Alt text](ex4.png)
 
 ## Result:
 
